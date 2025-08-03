@@ -25,7 +25,7 @@ A comprehensive Windows system performance monitoring and analysis tool built wi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/SystemAnalyzer.git
+   git clone https://github.com/ismailTrk/WindowsPerformanceMonitor.git
    cd SystemAnalyzer
    ```
 
@@ -144,19 +144,6 @@ SystemAnalyzer/
 - **Network Activity Analysis**: Tracks unusual network patterns
 - **System Health Monitoring**: Overall security posture assessment
 
-## 🛠️ Development
-
-### Building from Source
-
-1. **Install .NET 8.0 SDK**
-2. **Clone and build:**
-   ```bash
-   git clone https://github.com/yourusername/SystemAnalyzer.git
-   cd SystemAnalyzer
-   dotnet restore
-   dotnet build
-   ```
-
 ### Running Tests
 ```bash
 dotnet test
@@ -228,11 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Performance Counter API integration
 - Modern async/await patterns
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/SystemAnalyzer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/SystemAnalyzer/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/SystemAnalyzer/wiki)
+##
 
 ---
 
